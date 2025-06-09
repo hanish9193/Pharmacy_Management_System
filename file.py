@@ -57,6 +57,7 @@ class DatabaseManager:
         if self.connection and self.connection.is_connected():
             self.connection.close()
 
+#Here u need to update your database to run this pharmacymangaement sucessfully
 
 try:
     db_manager = DatabaseManager(
