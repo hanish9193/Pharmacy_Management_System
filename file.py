@@ -62,8 +62,8 @@ try:
     db_manager = DatabaseManager(
         host="localhost",
         user="root",
-        password="Raviteja3959@",
-        database="pharmacymanagement"
+        password="your database password",
+        database="name database name as pharmacymanagement or any other ur wish"
     )
     
     if not db_manager.connect():
