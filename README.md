@@ -227,6 +227,13 @@ graph TD
 
 <div align="center">
 
+### 📱 Application Screenshots
+
+| **Main Dashboard** | **System Interface** |
+|:---:|:---:|
+| ![Main Dashboard](54321.jpg) | ![System Interface](1234567.jpg) |
+| *Main portal selection and navigation* | *Core system functionality* |
+
 ### 🖥️ Dashboard Preview
 ```
 ┌─────────────────────────────────────────────────────────────┐
@@ -344,13 +351,18 @@ git push origin feature/amazing-feature
 | **Role** | **Name** | **Contribution** |
 |:---:|:---:|:---:|
 | 🚀 **Lead Developer** | **Raviteja Dasarigalla** | System Architecture, Core Development |
-| 🤝 **Collaborator** | **Your Name** | Database Design, Feature Implementation |
+| 💻 **Co-Lead Developer** | **Hanish Kumar** | Database Design, Feature Implementation |
 
 ### 📞 Contact Information
 
 **Raviteja Dasarigalla**  
 📧 Email: [iamravitejasagar01@gmail.com](mailto:iamravitejasagar01@gmail.com)  
 🐙 GitHub: [@Dasarigalla-Raviteja](https://github.com/Dasarigalla-Raviteja)  
+
+**Hanish Kumar**  
+📧 Email: [hanish.kumar9193@gmail.com](mailto:hanish.kumar9193@gmail.com)  
+🐙 GitHub: [@hanish9193](https://github.com/hanish9193)  
+
 🔗 Project: [pharmacy-management-system](https://github.com/Dasarigalla-Raviteja/pharmacy-management-system)
 
 </div>
@@ -390,7 +402,7 @@ If you found this project helpful, please consider:
 
 ---
 
-**Made with ❤️ by Raviteja & Team**
+**Made with ❤️ by Raviteja & Hanish Kumar**
 
 ```
 Thank you for checking out our Pharmacy Management System!
