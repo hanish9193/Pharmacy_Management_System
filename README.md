@@ -1,6 +1,6 @@
 # Pharmacy Management System
 
-A comprehensive pharmacy management system built with Python and Streamlit, featuring customer management, drug inventory, order processing, and delivery tracking.
+A comprehensive pharmacy management system built with Python and Streamlit, featuring customer management, drug inventory, order processing, and delivery tracking. DBMS
 
 ## Features
 
